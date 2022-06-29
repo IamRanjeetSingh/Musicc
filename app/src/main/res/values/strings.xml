@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Musicc</string>
+    <string name="SHARED_PREFERENCES_FILE_NAME">com.example.musicc.sharedPreferences</string>
+
+    <!-- song_list_activity -->
+    <string name="currentSongThumbnail_CD">current song thumbnail</string>
+    <string name="MiniSongTitle">Mini Song Title</string>
+    <string name="MiniSongArtist">Mini Song Artist</string>
+    <string name="miniPlayButton_CD">Play button</string>
+
+    <!-- Placeholders -->
+    <string name="duration_Placeholder">%1$d:%2$d</string>
+
+    <!-- MusicPlayerService -->
+    <string name="UNKNOWN_TITLE">UNKNOWN TITLE</string>
+    <string name="UNKNOWN_ARTIST">UNKNOWN ARTIST</string>
+    <string name="UNKNOWN_ALBUM">UNKNOWN ALBUM</string>
+    <string name="UNKNOWN_DURATION">UNKNOWN DURATION</string>
+
+    <string name="Now_Playing">Now Playing</string>
+    <string name="duration_template">0:0</string>
+    <string name="Shuffle_CD">Shuffle</string>
+    <string name="SkipToPrevious_CD">Skip To Previous</string>
+    <string name="Play_CD">Play</string>
+    <string name="SkipToNext_CD">Skip To Next</string>
+    <string name="Repeat_CD">Repeat</string>
+
+    <!-- song_list_item -->
+    <string name="songThumbnail_CD">song thumbnail</string>
+    <string name="SongTitle">Song Title</string>
+    <string name="SongArtist">Song Artist</string>
+
+    <!-- Notification Channel Names -->
+    <string name="PlaybackChannel">Music Playback</string>
+</resources>
